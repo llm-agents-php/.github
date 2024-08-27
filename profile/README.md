@@ -17,8 +17,8 @@ LLM Agents PHP is a framework for creating autonomous agents that can perform ta
 
 ## 📂 Our Projects
 
-- **📦 LLM Agents Core:** The core library for building LLM-based agents in PHP.
-- **📝 Sample Application:** A demonstration of LLM Agents PHP in action with usage examples.
+- **📦 [LLM Agents Core](https://github.com/llm-agents-php/agents):** The core library for building LLM-based agents in PHP.
+- **📝 [Sample Application](https://github.com/llm-agents-php/sample-app):** A demonstration of LLM Agents PHP in action with usage examples.
 
 ## 💬 Community and Support
 
