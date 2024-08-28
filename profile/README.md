@@ -1,4 +1,4 @@
-# LLM Agents PHP - Autonomous Language Model Agents for PHP
+# LLM Agents PHP - The most powerful LLM Agents framework for PHP
 
 👋 Welcome to LLM Agents PHP!
 
