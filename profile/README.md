@@ -18,9 +18,12 @@ LLM Agents PHP is a **PHP framework** for creating **autonomous agents** that ca
 - **🤝 Multi-Agent Support:** Build systems with multiple interacting agents for complex problem-solving scenarios in PHP.
 
 ## 📂 Our Projects
-
-- **📦 [LLM Agents Core](https://github.com/llm-agents-php/agents):** The core library for building **LLM-based agents** in PHP.
-- **📝 [Sample Application](https://github.com/llm-agents-php/sample-app):** A demonstration of LLM Agents PHP in action with practical usage examples.
+- **🧠 [LLM Agents Core](https://github.com/llm-agents-php/agents):** The core library for building LLM-based agents in PHP. It's the brain of our operation!
+- **🎭 [Prompt Generator](https://github.com/llm-agents-php/prompt-generator):** A cool tool for generating chat prompts with all the system and user messages your agents need.
+- **🔌 [OpenAI Client](https://github.com/llm-agents-php/openai-client):** Your ticket to seamlessly integrate OpenAI's API into your LLM Agents projects.
+- **💬 [CLI Chat](https://github.com/llm-agents-php/cli-chat):** A nifty CLI chat interface for chatting with LLM agents. Perfect for testing or building CLI chatbots!
+- **🗺️ [JSON Schema Mapper](https://github.com/llm-agents-php/schema-mapper):** A handy tool for converting between PHP classes and JSON schemas, and vice versa.
+- **🚀 [Sample Application](https://github.com/llm-agents-php/sample-app):** See LLM Agents PHP in action! This demo app shows you how to put all these cool tools to work.
 
 ## 💬 Community and Support
 
